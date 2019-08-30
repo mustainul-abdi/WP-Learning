@@ -3,6 +3,7 @@ WP resolusi :
   * Pengenalan Github & GIT
   * Memulai menggunakan Github
   * Github Branch 
+  * Pull request
 - Belajar PHP
 - Belajar Framework CI
 - Belajar Framework Laravel
