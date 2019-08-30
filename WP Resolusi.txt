@@ -6,6 +6,7 @@ WP resolusi :
   * Merge, Pull request
   * Menghapus branch
   * Membuat branch berbeda
+  * membuat branch lebih banyak
 - Belajar PHP
 - Belajar Framework CI
 - Belajar Framework Laravel
