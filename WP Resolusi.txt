@@ -1,7 +1,8 @@
 WP resolusi :
-- Belajar GITHUB & GIT:
-  - Pengenalan GITHUB & GIT
-  - Memulai menggunakan GITHUB
+- Belajar Github & GIT:
+  * Pengenalan Github & GIT
+  * Memulai menggunakan Github
+  * Github Branch 
 - Belajar PHP
 - Belajar Framework CI
 - Belajar Framework Laravel
