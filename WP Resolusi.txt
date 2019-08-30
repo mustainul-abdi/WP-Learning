@@ -1,0 +1,4 @@
+WP resolusi :
+1. Belajar PHP
+2. Belajar Framework CI
+3. Belajar Framework Laravel
