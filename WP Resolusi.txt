@@ -4,6 +4,8 @@ WP resolusi :
   * Memulai menggunakan Github
   * Github Branch 
   * Merge, Pull request
+  * Menghapus branch
+  * Membuat branch berbeda
 - Belajar PHP
 - Belajar Framework CI
 - Belajar Framework Laravel
