@@ -1,4 +1,7 @@
 WP resolusi :
-1. Belajar PHP
-2. Belajar Framework CI
-3. Belajar Framework Laravel
+- Belajar GITHUB & GIT:
+  - Pengenalan GITHUB & GIT
+  - Memulai menggunakan GITHUB
+- Belajar PHP
+- Belajar Framework CI
+- Belajar Framework Laravel
